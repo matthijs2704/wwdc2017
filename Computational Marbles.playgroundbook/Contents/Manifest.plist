@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SwiftVersion</key>
+	<string>3.1</string>
+	<key>ImageReference</key>
+	<string>Playground-ImageReference3.png</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>2.0.17</string>
+	<key>Name</key>
+	<string>Computational Marbles</string>
+	<key>ContentIdentifier</key>
+	<string>com.matthijs2704.WWDC17</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

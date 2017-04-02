@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>algorithm</key>
+		<dict>
+			<key>Definition</key>
+			<string>A list of steps to finish a task. A set of instructions that can be performed with a computer.</string>
+		</dict>
+		<key>function</key>
+		<dict>
+			<key>Definition</key>
+			<string>A piece of code that you can easily call over and over again. Functions are sometimes called ‘procedures.’ A function definition is a segment of code that includes the steps performed in the function. A function call is the code segment, typically within the main logic of the program, which invokes the function. 
+</string>
+		</dict>
+		<key>trial-and-error</key>
+		<dict>
+			<key>Definition</key>
+			<string>Finding out of the best way to reach a desired result or a correct solution by trying out one or more ways and by noting and eliminating errors or causes of failure.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

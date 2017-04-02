@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PlaygroundLoggingMode</key>
+	<string>Off</string>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Whoop loop</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>CodeCopySetup</key>
+	<dict>
+		<key>ReadyToCopyInstructions</key>
+		<string>You can bring over your code you&apos;ve written on the previous page so you don&apos;t have to rewrite it.</string>
+		<key>NotReadyToCopyInstructions</key>
+		<string>You&apos;ve not finished the previous assessment. The code on the previous page is mandatory for this page to work. Please finish that assessment before coming here.
+Or you can choose to start with provided code instead of your own.</string>
+		<key>CopyCommandButtonTitle</key>
+		<string>Bring Over My Code</string>
+		<key>NavigateCommandButtonTitle</key>
+		<string>Return to Previous Page</string>
+		<key>DefaultCommandButtonTitle</key>
+		<string>Start with provided Code</string>
+	</dict>
+</dict>
+</plist>
