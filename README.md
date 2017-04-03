@@ -5,6 +5,11 @@ This is my submission for the WWDC 2017 Scholarships
 Click the screenshot below to open the video:
 [![Video Screenshot](https://img.youtube.com/vi/N2ETuXQk9QU/maxresdefault.jpg)](https://www.youtube.com/watch?v=N2ETuXQk9QU)
 
+## 📱 Download
+Download the zip file [here](https://github.com/matthijs2704/wwdc2017/releases/tag/final). Then transfer the playgroundbook file to your iPad (using AirDrop, iMessage or iCloud Drive) to start playing around with it!
+
+Have fun! And let me know on Twitter what you think :)
+
 ## 💡 Idea
 In September I’m starting a Computer Science studies at university. One of the requirements before enrollment in the program is to do some knowledge tests, one of them was a Calculus test and another one was about Computational Thinking. That topic really interested me, as it apparently is a skill we are born with and I did a little bit more research on it. This is where my inspiration for the playground came from. I wanted to let people experience consciously using this skill to solve a problem.
 
