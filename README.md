@@ -1,6 +1,8 @@
 # wwdc2017
 This is my submission for the WWDC 2017 Scholarships
+
 ## 📹 Checkout my video about my submission
+Click the screenshot below to open the video:
 [![Video Screenshot](https://img.youtube.com/vi/N2ETuXQk9QU/maxresdefault.jpg)](https://www.youtube.com/watch?v=N2ETuXQk9QU)
 
 ## 💡 Idea
@@ -17,3 +19,7 @@ I’ve also tried to utilize as many features of the playgrounds app (and the Pl
 I’ve used the glossary to add definitions to some more technical words or some words where a little more explanation is useful. For the introduction, I’ve used a cutscene page with a little HTML.
 
 Code-wise I really wanted to do a good job. I’ve tried my best to write clean, modular code and I think I’ve done a pretty great job. You’re very welcome to check it out! Personally, I’m more into the code than UI design. I simply love to write the code behind a program and give meaning to an otherwise useless UI. Luckily we need both designers and programmers in the development world!
+
+## 🐦 Twitter
+Follow me on Twitter for more cool stuff and things!
+[@matthijs2704](https://twitter.com/matthijs2704)
